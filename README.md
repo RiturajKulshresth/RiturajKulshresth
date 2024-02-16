@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiturajKulshresth
 - 👀 I’m interested in CNN, Computer Architecture
 - 🌱 I’m currently learning ReactJs, Ruby
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me: riturajkulshresth@gmail.com
 - https://riturajkulshresth.github.io/
 
