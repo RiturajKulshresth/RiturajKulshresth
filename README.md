@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiturajKulshresth
-- 👀 I’m interested in CNN, Computer Architecture
-- 🌱 I’m currently learning ReactJs, Ruby
+- 👀 I’m Operating systems and OpenSource Dev
+- 🌱 I’m currently learning MERN, Rust
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me: riturajkulshresth@gmail.com
 - [RiturajKulshresth](https://riturajkulshresth.vercel.app/)
