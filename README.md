@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN, Rust
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me: riturajkulshresth@gmail.com
-- 🖥    [  RiturajKulshresth](https://riturajkulshresth.vercel.app/)
+-  🖥    [  RiturajKulshresth](https://riturajkulshresth.vercel.app/)
 - 📷 [RiturajKulshresth Photography](https://riturajkulshresth-photography.vercel.app/)
 
 <!---
