@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RiturajKulshresth
-- 👀 I’m Operating systems and OpenSource Dev
+- 👀 I’m inteerested in Operating systems and OpenSource 
 - 🌱 I’m currently learning MERN, Rust
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me: riturajkulshresth@gmail.com
