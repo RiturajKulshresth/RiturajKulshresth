@@ -6,6 +6,8 @@
 - 👨🏻‍🦱 My Website [RiturajKulshresth](https://riturajkulshresth.vercel.app/)
 - 📷 My Photographs [RiturajKulshresth Photography](https://riturajkulshresth-photography.vercel.app/)
 
+
+https://medium.com/@riturajworkemail/consciousness-and-ai-3d467a1f978a
 <!---
 RiturajKulshresth/RiturajKulshresth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
