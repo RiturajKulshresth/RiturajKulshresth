@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiturajKulshresth
-- 👀 I’m interested in Operating systems 
-- 🌱 I’m currently learning MERN, Rust
+- 👀 I’m interested in Multi Agent AI systems, Operating systems 
+- 🌱 I’m currently learning Langgraph, Multi Agent AI, MERN, Rust
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me: riturajkulshresth@gmail.com
 - 👨🏻‍🦱 My Website [RiturajKulshresth](https://riturajkulshresth.vercel.app/)
